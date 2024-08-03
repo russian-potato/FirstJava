@@ -1,0 +1,8 @@
+com/example/dialect/SQLiteDialect.class
+com/example/App.class
+com/example/stockapp/controller/StockController.class
+com/example/stockapp/DatabaseInitializer.class
+com/example/stockapp/service/StockService.class
+com/example/stockapp/StockAppApplication.class
+com/example/stockapp/repository/StockPriceRepository.class
+com/example/stockapp/model/StockPrice.class

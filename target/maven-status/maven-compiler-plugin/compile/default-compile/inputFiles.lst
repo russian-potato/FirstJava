@@ -1,0 +1,8 @@
+/root/stockapp/src/main/java/com/example/stockapp/service/StockService.java
+/root/stockapp/src/main/java/com/example/stockapp/controller/StockController.java
+/root/stockapp/src/main/java/com/example/stockapp/repository/StockPriceRepository.java
+/root/stockapp/src/main/java/com/example/stockapp/stock-app/src/main/java/com/example/App.java
+/root/stockapp/src/main/java/com/example/stockapp/StockAppApplication.java
+/root/stockapp/src/main/java/com/example/stockapp/DatabaseInitializer.java
+/root/stockapp/src/main/java/com/example/stockapp/model/StockPrice.java
+/root/stockapp/src/main/java/com/example/dialect/SQLiteDialect.java

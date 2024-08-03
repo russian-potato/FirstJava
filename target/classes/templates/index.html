@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Stock Prices</title>
+</head>
+<body>
+    <h1>Stock Prices for the Last 7 Days</h1>
+    <img th:src="'data:image/png;base64,' + ${chart}" />
+</body>
+</html>
